@@ -66,6 +66,7 @@
 ### Guides
 
 - [Antelope Smart Contract Developer's Handbook](https://cc32d9.gitbook.io/antelope-smart-contract-developers-handbook/)
+- [Wax Smart Contract Development Guide](https://waxdao.gitbook.io/wax-smart-contract-development-guide)
 
 ### Tutorials
 
@@ -153,6 +154,7 @@
 
 - [Zeus](https://docs.liquidapps.io/liquidapps-documentation/working-with-zeus-sdk/overview) - Zeus makes Antelope smart contract unit testing easy with the NodeJS mocha-chai framework.
 - [VeRT](https://github.com/eosnetworkfoundation/vert) - VeRT is a blockchain virtual machine emulator for WASM-based contracts like WAX.
+- [Fuckyea](https://github.com/nsjames/fuckyea?tab=readme-ov-file) - Smart contract testing framework built by Nathan James from EOS
 
 ## DeFi Platforms
 
@@ -189,6 +191,7 @@
 
 - [DelphiOracle](https://github.com/eostitan/delphioracle) ([contract](https://waxblock.io/account/delphioracle)) - Token pair price oracle, e.g. WAX/USD, WAX/USDT, WAX/BTC, WAX/ETH etc
 - [WAX RNG Oracle](https://github.com/worldwide-asset-exchange/wax-orng) - The WAX RNG Native Blockchain Service
+- [Alcor TWAP Oracle](https://github.com/alcorexchange/alcor-oracle-price/tree/master) - On chain TWAP (Time Weighted Average Price) oracle built using the same logic as Uniswap V3. Reference: [Uniswap Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
 
 ## Name Services
 
@@ -196,6 +199,7 @@
 
 - [WAX Name Bids](https://waxblock.io/namebids) - The native service for Premium Name bids.
 - [WAX Name Service](https://www.waxnameservice.io/) - Discover Valuable Premium Names on WAX.
+- [WaxDAO Name Service](https://names.waxdao.io)
 
 ## Community Resources
 
@@ -211,6 +215,7 @@
 > Metrics and analytics services for WAX.
 
 - [WAXMarketCap](https://www.waxmarketcap.com/) - NFT Analytics on the WAX Blockchain
+- [WaxDAO Token Tracker](https://waxdao.io/tokens)
 
 ## NFT Marketplaces
 
