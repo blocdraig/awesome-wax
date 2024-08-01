@@ -199,7 +199,7 @@
 
 - [WAX Name Bids](https://waxblock.io/namebids) - The native service for Premium Name bids.
 - [WAX Name Service](https://www.waxnameservice.io/) - Discover Valuable Premium Names on WAX.
-- [WaxDAO Name Service](https://names.waxdao.io)
+- [WaxDAO Name Service](https://names.waxdao.io) - Buy/sell subdomains for Premium Names on WAX.
 
 ## Community Resources
 
@@ -215,7 +215,7 @@
 > Metrics and analytics services for WAX.
 
 - [WAXMarketCap](https://www.waxmarketcap.com/) - NFT Analytics on the WAX Blockchain
-- [WaxDAO Token Tracker](https://waxdao.io/tokens)
+- [WaxDAO Token Tracker](https://waxdao.io/tokens) - Track price, volume, liquidity and more for various WAX tokens
 
 ## NFT Marketplaces
 
