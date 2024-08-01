@@ -58,10 +58,10 @@
 
 ### Docs
 
-- [WAX Unity SDK Documentation](https://liquiidio.gitbook.io/unity-plugin-suite)
 - [Chain API Documentation](https://docs.eosnetwork.com/apis/leap/latest/chain.api)
 - [AtomicAssets API Documentation](https://wax.api.atomicassets.io/docs/)
 - [Hyperion History API Documentation](https://hyperion.docs.eosrio.io/#for-developers)
+- [WAX Unity SDK Documentation](https://liquiidio.gitbook.io/unity-plugin-suite)
 
 ### Guides
 
@@ -121,13 +121,16 @@
 - [antelope-java-sdk](https://github.com/mcicu/antelope-java-sdk) - Updated Antelope API library for Java.
 
 #### PHP
+
 - [php-eos-rpc-sdk](https://github.com/alienzin/php-eos-rpc-sdk) - Antelope API library for PHP.
 
 #### Swift
+
 - [mandel-swift](https://github.com/eosnetworkfoundation/mandel-swift) - Antelope API library for Swift.
 - [swift-eosio](https://github.com/greymass/swift-eosio) - Alternative Antelope API library for Swift.
 
 #### Dart
+
 - [eosdart](https://github.com/primes-network/eosdart) - Antelope API library for Dart.
 
 ### IDEs
@@ -198,7 +201,10 @@
 
 > The following contains sections related to open-source projects, utilities, and news resources.
 
--
+### Creator Tools
+
+- [bountyblok](https://www.bountyblok.io/) - The easiest way to power your Web3 projects for engagement. Launch contests & giveaways, distribute NFTs in a few clicks, gift NFTs with personalized email templates, and access enterprise Web3 APIs for secure blockchain integration.
+- [Waxzilla](https://waxzilla.io/) - Community Builder and Management Tool built on WAX Blockchain!
 
 ## Metrics and Analytics Services
 
@@ -220,6 +226,4 @@
 
 > A list of projects, dapps, games that are built on top of WAX.
 
-### Creator Tools
-
-- [bountyblok](https://www.bountyblok.io/) - The easiest way to power your Web3 projects for engagement. Launch contests & giveaways, distribute NFTs in a few clicks, gift NFTs with personalized email templates, and access enterprise Web3 APIs for secure blockchain integration
+- 
