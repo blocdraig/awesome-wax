@@ -8,21 +8,23 @@
 - [Wallets](#wallets)
 - [Blockchain Explorers](#blockchain-explorers)
 - [Learning Resources](#learning-resources)
-- [Development Tools](#development-tools)
+- [Developer Resources](#developer-resources)
+  - [Docs](#docs)
+  - [Guides](#guides)
+  - [Tutorials](#tutorials)
   - [CLI](#cli)
   - [Languages](#languages)
   - [IDEs](#ides)
   - [Other Development Tools](#other-development-tools)
-- [DeFi Platforms](#defi-platforms)
-- [Nodes & API Operation](#nodes--api-operation)
 - [Security Auditing Services](#security-auditing-services)
+- [Nodes & API Operation](#nodes--api-operation)
+- [DeFi Platforms](#defi-platforms)
 - [Blockchain Bridges](#blockchain-bridges)
 - [Oracles](#oracles)
 - [Name Services](#name-services)
-- [Community Resources](#community-resources)
 - [Metrics and Analytics Services](#metrics-and-analytics-services)
 - [NFT Marketplaces](#nft-marketplaces)
-- [Ecosystem](#ecosystem)
+- [Community Resources](#community-resources)
 
 ## Official Resources
 
@@ -56,12 +58,17 @@
 
 > List of learning resources for WAX. Includes courses, tutorials, and other resources.
 
+## Developer Resources
+
 ### Docs
 
 - [Chain API Documentation](https://docs.eosnetwork.com/apis/leap/latest/chain.api)
 - [AtomicAssets API Documentation](https://wax.api.atomicassets.io/docs/)
 - [Hyperion History API Documentation](https://hyperion.docs.eosrio.io/#for-developers)
 - [WAX Unity SDK Documentation](https://liquiidio.gitbook.io/unity-plugin-suite)
+- [WAX Testnet Information](https://waxsweden.org/testnet/)
+- [WAX Testnet Public Endpoints](https://validate.eosnation.io/waxtest/reports/endpoints.html)
+- [WAX Mainnet Public Endpoints](https://validate.eosnation.io/wax/reports/endpoints.html)
 
 ### Guides
 
@@ -71,16 +78,6 @@
 ### Tutorials
 
 - [Accepting NFT Deposits in a WAX Smart Contract](https://onblock.dev/accepting-nft-deposits-in-a-smart-contract)
-
-### Developer Resources
-
-- [WAX Testnet Information](https://waxsweden.org/testnet/)
-- [WAX Testnet Public Endpoints](https://validate.eosnation.io/waxtest/reports/endpoints.html)
-- [WAX Mainnet Public Endpoints](https://validate.eosnation.io/wax/reports/endpoints.html)
-
-## Development Tools
-
-> Awesome client libraries, tools, and community utilities.
 
 ### CLI
 
@@ -156,20 +153,6 @@
 - [VeRT](https://github.com/eosnetworkfoundation/vert) - VeRT is a blockchain virtual machine emulator for WASM-based contracts like WAX.
 - [Fuckyea](https://github.com/nsjames/fuckyea?tab=readme-ov-file) - Smart contract testing framework built by Nathan James from EOS
 
-## DeFi Platforms
-
-> Awesome DeFi platforms and protocols on WAX.
-
-- [Alcor Exchange](https://wax.alcor.exchange/) - All in one DEX. Alcor is a lego of decentralized finance built on multi-chain, and a provider of solutions in one tap.
-- [WaxOnEdge](https://waxonedge.app/) - WAX DEX aggregator - the ultimate tool to simplify and optimize your token swaps. Access all the top decentralized exchanges in one place and unlock the best trading paths for maximum returns.
-- [Taco Swap](https://swap.tacocrypto.io) - The first community exchange on WAX which allows users to trade and earn in a safe and fun space.
-
-## Nodes & API Operation
-
-> Resources and guides for running Blockchain, History, or Atomic Assets APIs
-
-- [WAX Technical How To Series](https://medium.com/eosphere/wax-technical-how-to/home) - Guides for running blockchain nodes and APIs by EOSphere
-
 ## Security Auditing Services
 
 > Companies offering smart contract audits for the WAX ecosystem.
@@ -178,6 +161,20 @@
 - [CryptoLions](https://cryptolions.io/) - WAX block producer that offers smart contract security audit services.
 - [Hacken](https://hacken.io/services/blockchain-security/smart-contract-security-audit/) - Smart Contract Audit Services.
 - [BlockSec](https://blocksec.com/) - Full-Stack Blockchain Security Service Provider.
+
+## Nodes & API Operation
+
+> Resources and guides for running Blockchain, History, or Atomic Assets APIs
+
+- [WAX Technical How To Series](https://medium.com/eosphere/wax-technical-how-to/home) - Guides for running blockchain nodes and APIs by EOSphere
+
+## DeFi Platforms
+
+> Awesome DeFi platforms and protocols on WAX.
+
+- [Alcor Exchange](https://wax.alcor.exchange/) - All in one DEX. Alcor is a lego of decentralized finance built on multi-chain, and a provider of solutions in one tap.
+- [WaxOnEdge](https://waxonedge.app/) - WAX DEX aggregator - the ultimate tool to simplify and optimize your token swaps. Access all the top decentralized exchanges in one place and unlock the best trading paths for maximum returns.
+- [Taco Swap](https://swap.tacocrypto.io) - The first community exchange on WAX which allows users to trade and earn in a safe and fun space.
 
 ## Blockchain Bridges
 
@@ -201,15 +198,6 @@
 - [WAX Name Service](https://www.waxnameservice.io/) - Discover Valuable Premium Names on WAX.
 - [WaxDAO Name Service](https://names.waxdao.io) - Buy/sell subdomains for Premium Names on WAX.
 
-## Community Resources
-
-> The following contains sections related to open-source projects, utilities, and news resources.
-
-### Creator Tools
-
-- [bountyblok](https://www.bountyblok.io/) - The easiest way to power your Web3 projects for engagement. Launch contests & giveaways, distribute NFTs in a few clicks, gift NFTs with personalized email templates, and access enterprise Web3 APIs for secure blockchain integration.
-- [Waxzilla](https://waxzilla.io/) - Community Builder and Management Tool built on WAX Blockchain!
-
 ## Metrics and Analytics Services
 
 > Metrics and analytics services for WAX.
@@ -219,16 +207,20 @@
 
 ## NFT Marketplaces
 
-> Buy, Sell, Trade your NFTs on these awesome WAX marketplaces.
-
 - [AtomicHub](https://wax.atomichub.io/) - A one stop solution for creating, trading, buying and selling NFTs on the WAX Blockchain.
 - [NFTHive](https://nfthive.io/) - Browse NFT Market offers, Bundles & Auctions. Check your inventory and sell NFTs easily.
 - [NeftyBlocks](https://neftyblocks.com/) - A Trade to Earn marketplace for buying, selling and creating digital collectibles.
 - [Chain Champs](https://market.chainchamps.com/) - Chain Champs is WAX's first real-time NFT marketplace. See new sales the second they're listed, hunt for the best NFT deals.
 - [vIRL Market](https://virl.com/) - A marketplace for gamers and collectors to buy, sell and trade utility-based NFTs and vIRLs™.
 
-## Ecosystem
+## Community Resources
 
-> A list of projects, dapps, games that are built on top of WAX.
+### Creator Tools
 
-- 
+- [bountyblok](https://www.bountyblok.io/) - The easiest way to power your Web3 projects for engagement. Launch contests & giveaways, distribute NFTs in a few clicks, gift NFTs with personalized email templates, and access enterprise Web3 APIs for secure blockchain integration.
+- [WaxDAO](https://waxdao.io/) - A suite of accessible tools on WAX blockchain. WaxDAO allows creators on WAX to transform their ideas into reality, without needing to learn how to code.
+
+### Directories
+
+- [illusive.gg](https://www.illusive.gg/) - Discover & Play the best Blockchain Games
+- [Waxzilla](https://waxzilla.io/) - Community Builder and Management Tool built on WAX Blockchain!
