@@ -58,6 +58,8 @@
 
 > List of learning resources for WAX. Includes courses, tutorials, and other resources.
 
+- [WAX Academy](https://academy.anyo.io/courses/introduction-to-wax/) - A free course covering many aspect of the WAX Blockchain.
+
 ## Developer Resources
 
 ### Docs
@@ -168,6 +170,12 @@
 
 - [WAX Technical How To Series](https://medium.com/eosphere/wax-technical-how-to/home) - Guides for running blockchain nodes and APIs by EOSphere
 
+### Commercial Services
+
+- [WAXGalaxy](https://pro.waxgalaxy.io/) - Metered WAX API access
+- [Connect3](https://www.connect3.io/pricing) - Metered WAX API access
+- [binfra.one](https://binfra.one/) - WAX Blockchain, History, and Atomic API services.
+
 ## DeFi Platforms
 
 > Awesome DeFi platforms and protocols on WAX.
@@ -202,8 +210,9 @@
 
 > Metrics and analytics services for WAX.
 
-- [WAXMarketCap](https://www.waxmarketcap.com/) - NFT Analytics on the WAX Blockchain
-- [WaxDAO Token Tracker](https://waxdao.io/tokens) - Track price, volume, liquidity and more for various WAX tokens
+- [WAXMarketCap](https://www.waxmarketcap.com/) - NFT Analytics on the WAX Blockchain.
+- [WaxDAO Token Tracker](https://waxdao.io/tokens) - Track price, volume, liquidity and more for various WAX tokens.
+- [Validationcore](https://wax.validationcore.io) - Monitoring and stats for WAX Guild infrastructure.
 
 ## NFT Marketplaces
 
@@ -212,6 +221,7 @@
 - [NeftyBlocks](https://neftyblocks.com/) - A Trade to Earn marketplace for buying, selling and creating digital collectibles.
 - [Chain Champs](https://market.chainchamps.com/) - Chain Champs is WAX's first real-time NFT marketplace. See new sales the second they're listed, hunt for the best NFT deals.
 - [vIRL Market](https://virl.com/) - A marketplace for gamers and collectors to buy, sell and trade utility-based NFTs and vIRLs™.
+- [Droppp](https://droppp.io/) - Funko collectibles on the WAX Blockchain.
 
 ## Community Resources
 
@@ -219,8 +229,13 @@
 
 - [bountyblok](https://www.bountyblok.io/) - The easiest way to power your Web3 projects for engagement. Launch contests & giveaways, distribute NFTs in a few clicks, gift NFTs with personalized email templates, and access enterprise Web3 APIs for secure blockchain integration.
 - [WaxDAO](https://waxdao.io/) - A suite of accessible tools on WAX blockchain. WaxDAO allows creators on WAX to transform their ideas into reality, without needing to learn how to code.
+- [Pepper Stake](https://pepperstake.online/) - Create your own staking system. Stake assets & collect reward.
+- [LaunchBagz](https://wax.launchbagz.com/) - The first launchpad for the WAX ecosystem.
+- [Cerberus](https://cerberus.ledgerwise.io/) - Discord bot that integrates with the WAX Blockchain, features such as NFT ownership verification.
 
 ### Directories
 
-- [illusive.gg](https://www.illusive.gg/) - Discover & Play the best Blockchain Games
+- [illusive.gg](https://www.illusive.gg/) - Discover & Play the best Blockchain Games.
+- [WaxDapps](https://waxdapps.io/) - WAX Dapps Directory.
 - [Waxzilla](https://waxzilla.io/) - Community Builder and Management Tool built on WAX Blockchain!
+- [WAX Collection Verification Tool](https://verify.hivebp.io/)
