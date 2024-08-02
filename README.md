@@ -103,7 +103,6 @@
 
 - [go-eosio](https://github.com/greymass/go-eosio) - Fast Antelope primitives for Go.
 - [antelope-ship-client](https://github.com/eosswedenorg-go/antelope-ship-client) - Client Implementation of Antelope state-history websocket in go.
-- [Thalos](https://github.com/eosswedenorg/thalos) ([website](https://thalos.waxsweden.org/)) - Stream blockchain data from an Antelope SHIP node via Redis.
 
 #### Python
 
@@ -169,6 +168,8 @@
 > Resources and guides for running Blockchain, History, or Atomic Assets APIs
 
 - [WAX Technical How To Series](https://medium.com/eosphere/wax-technical-how-to/home) - Guides for running blockchain nodes and APIs by EOSphere
+- [Chronicle](https://github.com/EOSChronicleProject/eos-chronicle) - Antelope state history processor.
+- [Thalos](https://thalos.waxsweden.org/)) - Stream blockchain data from an Antelope SHIP node via Redis.
 
 ### Commercial Services
 
