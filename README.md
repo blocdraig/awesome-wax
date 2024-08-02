@@ -169,7 +169,7 @@
 
 - [WAX Technical How To Series](https://medium.com/eosphere/wax-technical-how-to/home) - Guides for running blockchain nodes and APIs by EOSphere
 - [Chronicle](https://github.com/EOSChronicleProject/eos-chronicle) - Antelope state history processor.
-- [Thalos](https://thalos.waxsweden.org/)) - Stream blockchain data from an Antelope SHIP node via Redis.
+- [Thalos](https://thalos.waxsweden.org/) - Stream blockchain data from an Antelope SHIP node via Redis.
 
 ### Commercial Services
 
