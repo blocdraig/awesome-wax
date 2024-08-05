@@ -4,27 +4,44 @@
 
 ## Contents
 
-- [Official Resources](#official-resources)
-- [Wallets](#wallets)
-- [Blockchain Explorers](#blockchain-explorers)
-- [Learning Resources](#learning-resources)
-- [Developer Resources](#developer-resources)
-  - [Docs](#docs)
-  - [Guides](#guides)
-  - [Tutorials](#tutorials)
-  - [CLI](#cli)
-  - [Languages](#languages)
-  - [IDEs](#ides)
-  - [Other Development Tools](#other-development-tools)
-- [Security Auditing Services](#security-auditing-services)
-- [Nodes & API Operation](#nodes--api-operation)
-- [DeFi Platforms](#defi-platforms)
-- [Blockchain Bridges](#blockchain-bridges)
-- [Oracles](#oracles)
-- [Name Services](#name-services)
-- [Metrics and Analytics Services](#metrics-and-analytics-services)
-- [NFT Marketplaces](#nft-marketplaces)
-- [Community Resources](#community-resources)
+- [Awesome WAX ](#awesome-wax-)
+  - [Contents](#contents)
+  - [Official Resources](#official-resources)
+  - [Wallets](#wallets)
+  - [Blockchain Explorers](#blockchain-explorers)
+  - [Learning Resources](#learning-resources)
+  - [Developer Resources](#developer-resources)
+    - [Docs](#docs)
+    - [Guides](#guides)
+    - [Tutorials](#tutorials)
+    - [CLI](#cli)
+    - [Languages](#languages)
+      - [JavaScript](#javascript)
+      - [C#](#c)
+      - [Go](#go)
+      - [Python](#python)
+      - [Rust](#rust)
+      - [Java](#java)
+      - [PHP](#php)
+      - [Swift](#swift)
+      - [Dart](#dart)
+    - [IDEs](#ides)
+      - [VSCode](#vscode)
+    - [Other Development Tools](#other-development-tools)
+      - [Smart Contracts](#smart-contracts)
+      - [Testing](#testing)
+  - [Security Auditing Services](#security-auditing-services)
+  - [Nodes \& API Operation](#nodes--api-operation)
+    - [Commercial Services](#commercial-services)
+  - [DeFi Platforms](#defi-platforms)
+  - [Blockchain Bridges](#blockchain-bridges)
+  - [Oracles](#oracles)
+  - [Name Services](#name-services)
+  - [Metrics and Analytics Services](#metrics-and-analytics-services)
+  - [NFT Marketplaces](#nft-marketplaces)
+  - [Community Resources](#community-resources)
+    - [Creator Tools](#creator-tools)
+    - [Directories](#directories)
 
 ## Official Resources
 
@@ -184,6 +201,7 @@
 - [Alcor Exchange](https://wax.alcor.exchange/) - All in one DEX. Alcor is a lego of decentralized finance built on multi-chain, and a provider of solutions in one tap.
 - [WaxOnEdge](https://waxonedge.app/) - WAX DEX aggregator - the ultimate tool to simplify and optimize your token swaps. Access all the top decentralized exchanges in one place and unlock the best trading paths for maximum returns.
 - [Taco Swap](https://swap.tacocrypto.io) - The first community exchange on WAX which allows users to trade and earn in a safe and fun space.
+- [A-DEX](https://wax.a-dex.io/) - The A-DEX is a peer-to-peer system designed for exchanging cryptocurrencies on the Antelope(EOSIO) blockchains.
 
 ## Blockchain Bridges
 
@@ -240,3 +258,4 @@
 - [WaxDapps](https://waxdapps.io/) - WAX Dapps Directory.
 - [Waxzilla](https://waxzilla.io/) - Community Builder and Management Tool built on WAX Blockchain!
 - [WAX Collection Verification Tool](https://verify.hivebp.io/)
+- [A-DEX Assets](https://github.com/A-DEX/assets) - A comprehensive, up-to-date collection of information about Antelope(EOSIO) chains.
