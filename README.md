@@ -1,4 +1,4 @@
-# Awesome WAX [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome WAX Blockchain [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 👑 A curated list of awesome resources related to the <a href='https://wax.io/'>WAX</a> Blockchain.
 
@@ -45,7 +45,7 @@
 
 ## Official Resources
 
-> Official resources for WAX.
+> Official resources for WAX Blockchain.
 
 - [WAX](https://wax.io/) - Official website.
 - [WAX Developer Portal](https://developer.wax.io/) - Official WAX developer portal.
