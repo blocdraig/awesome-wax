@@ -70,6 +70,7 @@
 - [wax.eosauthority.com](https://wax.eosauthority.com/) - WAX Block Explorer by EOS Authority.
 - [wax.eosq.eosnation.io](https://wax.eosq.eosnation.io/) - eosq: High-Precision Block Explorer.
 - [bdata.one](https://bdata.one/) - Blockchain data about accounts and tokens for several Antelope chains.
+- [WAX Detective](https://waxdetective.io/) - Forensic Data Analysis for WAX token transfers.
 
 ## Learning Resources
 
@@ -196,11 +197,10 @@
 
 ## DeFi Platforms
 
-> Awesome DeFi platforms and protocols on WAX.
-
 - [Alcor Exchange](https://wax.alcor.exchange/) - All in one DEX. Alcor is a lego of decentralized finance built on multi-chain, and a provider of solutions in one tap.
 - [WaxOnEdge](https://waxonedge.app/) - WAX DEX aggregator - the ultimate tool to simplify and optimize your token swaps. Access all the top decentralized exchanges in one place and unlock the best trading paths for maximum returns.
 - [Taco Swap](https://swap.tacocrypto.io) - The first community exchange on WAX which allows users to trade and earn in a safe and fun space.
+- [WaxFusion](https://waxfusion.io) - Open-source liquid staking protocol on WAX Blockchain.
 - [A-DEX](https://wax.a-dex.io/) - The A-DEX is a peer-to-peer system designed for exchanging cryptocurrencies on the Antelope(EOSIO) blockchains.
 
 ## Blockchain Bridges
@@ -250,6 +250,7 @@
 - [WaxDAO](https://waxdao.io/) - A suite of accessible tools on WAX blockchain. WaxDAO allows creators on WAX to transform their ideas into reality, without needing to learn how to code.
 - [Pepper Stake](https://pepperstake.online/) - Create your own staking system. Stake assets & collect reward.
 - [LaunchBagz](https://wax.launchbagz.com/) - The first launchpad for the WAX ecosystem.
+- [NeftyBlocks Me](https://neftyblocks.me/) - Effortlessly set up a NFT marketplace and customize to your needs.
 - [Cerberus](https://cerberus.ledgerwise.io/) - Discord bot that integrates with the WAX Blockchain, features such as NFT ownership verification.
 
 ### Directories
