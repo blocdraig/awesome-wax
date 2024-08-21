@@ -68,7 +68,6 @@
 
 - [waxblock.io](https://waxblock.io/) - The Official WAX Blockchain Explorer.
 - [wax.eosauthority.com](https://wax.eosauthority.com/) - WAX Block Explorer by EOS Authority.
-- [wax.eosq.eosnation.io](https://wax.eosq.eosnation.io/) - eosq: High-Precision Block Explorer.
 - [bdata.one](https://bdata.one/) - Blockchain data about accounts and tokens for several Antelope chains.
 - [WAX Detective](https://waxdetective.io/) - Forensic Data Analysis for WAX token transfers.
 
